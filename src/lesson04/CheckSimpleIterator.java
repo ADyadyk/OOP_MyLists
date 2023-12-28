@@ -1,6 +1,6 @@
 package lesson04;
 
-public class MyInteger {
+public class CheckSimpleIterator {
     public static void main(String[] args) {
         Integer[] integers = new Integer[3];
         integers[0] = 1;
