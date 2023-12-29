@@ -4,14 +4,14 @@
 
 **My Iterator**
 <br/>
-1. Создал класс **SimpleIterator.java** использовав Generics.
-2. Создал класс **CheckSimpleIterator.java** где проверил работоспособность интератора
+1. Создал класс **SimpleIterator.java** использовав Generics<br/>
+2. Создал класс **CheckSimpleIterator.java** где проверил работоспособность интератора<br/>
 
 **My ArrayList**
 <br/>
-3. Создадал интерфейс **SimpleArray.java**, в котором написал методы, которые должны будут реализовываться в нашем **SimpleArrayList**
-4. Создадал класс **SimpleArrayList.java**, в котором реализовал все методы из интерфейса **SimpleArray.java**
-5. Создал класс **CheckSimpleArrayList.java**, в котором проверил работоспособность **SimpleArrayList**
+3. Создадал интерфейс **SimpleArray.java**, в котором написал методы, которые должны будут реализовываться в нашем **SimpleArrayList**<br/>
+4. Создадал класс **SimpleArrayList.java**, в котором реализовал все методы из интерфейса **SimpleArray.java**<br/>
+5. Создал класс **CheckSimpleArrayList.java**, в котором проверил работоспособность **SimpleArrayList**<br/>
 
 **My LinkedList**
 <br/>
@@ -34,5 +34,5 @@
 |                    deleteElement(E e)                     | Удаляет элемент из нашего SimpleLinkedList                                                       |
 | findElementsBetweenIndex(int indexFirst, int indexSecond) | Находит все элементы между заданными индексами в нашем SimpleLinkedList и выводит их в консоль   |
 
-7. Создал класс **SimpleLinkedList.java**, в котором реализовал все методы из интерфейса **SimpleLinked**
-8. Создал класс **CheckSimpleLinkedList.java**, в котором проверил работоспособность **SimpleLinkedList**
+7. Создал класс **SimpleLinkedList.java**, в котором реализовал все методы из интерфейса **SimpleLinked**<br/>
+8. Создал класс **CheckSimpleLinkedList.java**, в котором проверил работоспособность **SimpleLinkedList**<br/>
