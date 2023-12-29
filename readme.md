@@ -9,13 +9,13 @@
 
 **My ArrayList**
 <br/>
-3. Создадал интерфейс **SimpleArray.java**, в котором написал методы, которые должны будут реализовываться в нашем **SimpleArrayList**<br/>
+3. Создадал интерфейс **SimpleArray.java**, в котором написал методы, которые должны будут реализовываться в **SimpleArrayList**<br/>
 4. Создадал класс **SimpleArrayList.java**, в котором реализовал все методы из интерфейса **SimpleArray.java**<br/>
 5. Создал класс **CheckSimpleArrayList.java**, в котором проверил работоспособность **SimpleArrayList**<br/>
 
 **My LinkedList**
 <br/>
-6. Создал интерфейс **SimpleLinked.java**, в котором написал методы, которые должны будут реализоваться в нашем **SimpleLinkedList**
+6. Создал интерфейс **SimpleLinked.java**, в котором написал методы, которые должны будут реализоваться в **SimpleLinkedList**
 <br/>
 
 |                    **Название метода**                    | <p align="center">**Краткое описание**</p>                                                 |
