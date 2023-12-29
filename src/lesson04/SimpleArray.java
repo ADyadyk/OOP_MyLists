@@ -2,27 +2,27 @@ package lesson04;
 
 public interface SimpleArray<E> extends Iterable<E>{
     /**
-     Добавление элемента в SimpleArrayList
+     Добавление элемента
      */
     boolean add(E e);
 
     /**
-     Удаление по индексу элемента в SimpleArrayList
+     Удаление элемента по индексу
      */
     void delete(int index);
 
     /**
-     Получение элемента по индексу в SimpleArrayList
+     Получение элемента по индексу
      */
     E get(int index);
 
     /**
-     Получение размера SimpleArrayList
+     Получение размера списка
      */
     int size();
 
     /**
-     Обновление значения по индексу в SimpleArrayList
+     Обновление значения элемента по индексу
      */
     void update(int index, E e);
 }
