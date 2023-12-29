@@ -18,21 +18,21 @@
 6. Создал интерфейс **SimpleLinked.java**, в котором написал методы, которые должны будут реализоваться в нашем **SimpleLinkedList**
 <br/>
 
-|                    **Название метода**                    | <p align="center">**Краткое описание**</p>                                                       |
-|:---------------------------------------------------------:|:-------------------------------------------------------------------------------------------------|
-|                       addLast(E e)                        | Добавляет новый элемент в конец SimpleLinkedList                                                 |
-|                       addFirst(E e)                       | Добавляет новый элемент в начало SimpleLinkedList                                                |
-|                          size()                           | Определяет количество элементов в SimpleLinkedList                                               |
-|               getElementByIndex(int index)                | Находит элемент по индексу в нашем SimpleLinkedList                                              |
-|                        printList()                        | Печатает в консоль весь SimpleLinkedList                                                         |
-|                     addMiddleIndex()                      | Добавляет элемент в середину SimpleLinkedList по индексу                                         |
-|                          clear()                          | Удаляет все элементы из нашего SimpleLinkedList                                                  |
-|                     checkElement(E e)                     | Определяет есть ли данный элемент в нашем SimpleLinkedList                                       |
-|                      checkListNull()                      | Определяет не пустой ли наш SimpleLinkedList (если пустой, то возвращает true                    |
-|              deleteElementByIndex(int index)              | Удаляет элемент по индексу в нашем SimpleLinkedList                                              |
-|                      findIndex(E e)                       | Возвращает индекс элемента в нашем SimpleLinkedList (если такого элемента нет, то возвращает -1) |
-|                    deleteElement(E e)                     | Удаляет элемент из нашего SimpleLinkedList                                                       |
-| findElementsBetweenIndex(int indexFirst, int indexSecond) | Находит все элементы между заданными индексами в нашем SimpleLinkedList и выводит их в консоль   |
+|                    **Название метода**                    | <p align="center">**Краткое описание**</p>                                                 |
+|:---------------------------------------------------------:|:-------------------------------------------------------------------------------------------|
+|                       addLast(E e)                        | Добавляет новый элемент в конец SimpleLinkedList                                           |
+|                       addFirst(E e)                       | Добавляет новый элемент в начало SimpleLinkedList                                          |
+|                          size()                           | Определяет количество элементов в SimpleLinkedList                                         |
+|               getElementByIndex(int index)                | Находит элемент по индексу в SimpleLinkedList                                              |
+|                        printList()                        | Печатает в консоль весь SimpleLinkedList                                                   |
+|                     addMiddleIndex()                      | Добавляет элемент в середину SimpleLinkedList по индексу                                   |
+|                          clear()                          | Удаляет все элементы из SimpleLinkedList                                                   |
+|                     checkElement(E e)                     | Определяет есть ли данный элемент в SimpleLinkedList                                       |
+|                      checkListNull()                      | Определяет не пустой ли SimpleLinkedList (если пустой, то возвращает true)                 |
+|              deleteElementByIndex(int index)              | Удаляет элемент по индексу в SimpleLinkedList                                              |
+|                      findIndex(E e)                       | Возвращает индекс элемента в SimpleLinkedList (если такого элемента нет, то возвращает -1) |
+|                    deleteElement(E e)                     | Удаляет элемент из SimpleLinkedList                                                        |
+| findElementsBetweenIndex(int indexFirst, int indexSecond) | Находит все элементы между заданными индексами в SimpleLinkedList и выводит их в консоль   |
 
 7. Создал класс **SimpleLinkedList.java**, в котором реализовал все методы из интерфейса **SimpleLinked**<br/>
 8. Создал класс **CheckSimpleLinkedList.java**, в котором проверил работоспособность **SimpleLinkedList**<br/>
